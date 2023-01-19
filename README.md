@@ -1,4 +1,4 @@
-# 0Day_NetChess
+# 0Day_NetChess2.1 Buffer Overflow (SEH)
 Exploit Title: NetChess2.1 Buffer Overflow (SEH) <br>
 Date: 8/1/2022<br>
 Exploit Author: Ugur Eminli<br>
