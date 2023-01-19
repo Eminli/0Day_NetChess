@@ -1,5 +1,5 @@
 # 0Day_NetChess
-Exploit Title: NetChess2.1 Buffer Overflow (SEH)
+Exploit Title: NetChess2.1 Buffer Overflow (SEH) <br>
 Date: 8/1/2022
 Exploit Author: Ugur Eminli
 Vendor Homepage: https://sourceforge.net/projects/avmnetchess/
